@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **surajsg1607@gmail.com**
 
-- ⚡ Fun fact **I am einstine**
+- ⚡ Fun fact **I am not an einstine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
