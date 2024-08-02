@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://img.shields.io/twitter/follow/https://twitter.com/surajssg?logo=twitter&style=for-the-badge" alt="https://twitter.com/surajssg" /></a> </p>
 
-- 🌱 I’m currently working on  **Dog Net Technology**
+- 🌱 I’m currently working on  **DOT NET Technology**
 
 - 📫 How to reach me **surajsg1607@gmail.com**
 
