@@ -37,9 +37,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="OOP" width="40" height="40" />
-  </a>
   
   <!-- Web Technologies -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -67,9 +64,7 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="ASP.NET Core" width="40" height="40" />
   </a>
-  <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Entity Framework" width="40" height="40" />
-  </a>
+
 
   <!-- Tools & OS -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
